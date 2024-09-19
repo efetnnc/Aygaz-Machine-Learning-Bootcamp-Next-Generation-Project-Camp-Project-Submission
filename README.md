@@ -4,7 +4,7 @@
 
 Bu projede New York Airbnb Open Data ile çalışılmıştır. Bu data üzerinde çeşitli regresyon algoritmalarının performansını karşılaştırarak hangi algoritmanın bu veri seti için daha uygun olduğunu belirlemek amaçlanmaktadır. Kullanılan algoritmalar Lineer Regresyon, Ridge Regresyon, Random Forest ve Gradient Boosting'tir. Projede eksik verilerin nasıl işlendiği ve algoritmaların performansının nasıl değerlendirildiği hakkında detaylı bilgi sunuyoruz.
 
-Görselleri README formatındaki dosyaya ekleyemediğimiz için, görselleri README.pdf dosyasından inceleyebilirsiniz. Anlayışınız için teşekkür ederiz.
+Görselleri README.md formatındaki dosyaya ekleyemediğimiz için, görselleri README.pdf dosyasından inceleyebilirsiniz. Anlayışınız için teşekkür ederiz.
 
 **\-Veri Seti**
 
